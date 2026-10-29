@@ -9,7 +9,7 @@
   <a href="https://discord.gg/rxw8Hwk3qA" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://tiktok.com/@lakofusion" target="_blank">
+  <a href="https://tiktok.com/@noxofusion" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://youtube.com/@noxofusion2010" target="_blank">
