@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./dark.svg" alt="LakoFusion - Roblox & Discord Automation Specialist" width="100%">
+  <img src="./dark.svg" alt="NoxoFusion - Roblox & Discord Automation Specialist" width="100%">
 </div>
 
 <br/>
@@ -12,7 +12,7 @@
   <a href="https://tiktok.com/@lakofusion" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://youtube.com/@lakofusion2010" target="_blank">
+  <a href="https://youtube.com/@noxofusion2010" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
