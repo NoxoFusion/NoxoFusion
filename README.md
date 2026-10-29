@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./dark.svg" alt="NoxoFusion - Roblox & Discord Automation Specialist" width="100%">
+  <img src="./dark.svg?v=2" alt="NoxoFusion - Automation Specialist" width="100%">
 </div>
 
 <br/>
