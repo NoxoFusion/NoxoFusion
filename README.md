@@ -42,6 +42,6 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=LakoFusion&theme=tokyonight&hide_border=true&show_icons=true" alt="Lako's Stats" />
-  <img height="165em" src="https://streak-stats.demolab.com/?user=LakoFusion&theme=tokyonight&hide_border=true" alt="Lako's Streak" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=NoxoFusion&theme=tokyonight&hide_border=true&show_icons=true" alt="Noxo's Stats" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=NoxoFusion&theme=tokyonight&hide_border=true" alt="Noxo's Streak" />
 </p>
